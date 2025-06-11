@@ -1,0 +1,9 @@
+Flask==2.3.3
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.196
+opencv-python-headless==4.8.0.76
+Pillow==10.0.0
+requests==2.31.0
+python-telegram-bot==20.5
+gunicorn==21.2.0
